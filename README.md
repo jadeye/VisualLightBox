@@ -8,6 +8,7 @@ Create a beatuful thumbnail image gallery with a amazing Lightbox-style overlay 
 
 # Live Demos
 
+*    [HTML Lightbox Modern DEMO](http://www.visuallightbox.com/html-lightbox-modern-demo.html)
 *    [Lightbox Gallery Metro DEMO](http://www.visuallightbox.com/lightbox-gallery-metro-demo.html)
 *    [Lightbox with jQuery Ghost DEMO](http://www.visuallightbox.com/lightbox-with-jquery-ghost-demo.html)
 *    [Prime Time Image Lightbox with Rotate](http://visuallightbox.com/jquery-image-lightbox.html)
